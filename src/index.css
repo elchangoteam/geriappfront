@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.ingresado {
+  background-color: chartreuse;
+}
+
+.baja {
+  background-color: brown !important;
+}
+
+.fichaDato {
+  font-size: 16px;
+}
+
+.fichaDescripcion {
+  font-size: 13px;
+  margin-top: -5px;
+}
+
+.aling-center {
+  text-align: center;
+}
+
+.aling-right {
+  text-align: right;
+}
+.aling-left {
+  text-align: left;
+}
+
+.fotoResidente {
+  padding-bottom: 25px;
+}
+
+.finalizado {
+  background-color: #e0f2f1;
+}
+
+.enProceso {
+  background-color: #fffde7;
+}
+
+.sinAsignar {
+  background-color: #eceff1;
+}
